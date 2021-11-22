@@ -16,6 +16,6 @@
 ### 系统演示视频
 
 <video id="video" controls="" preload="none">
-      <source id="mp4" src="https://tbm-auth.alicdn.com/83472a0fac6ce780/1635307701608/5fdcd919f80be8b3.mp4_332720748321_mp4_264_hd.taobao.aliyun.mp4?auth_key=1637563278-0-0-4c1047081e62c31067a2a3aa12300d07" type="video/mp4">
+      <source id="mp4" src="https://assets.meeluo.com/5fdcd919f80be8b3.mp4_332720748321_mp4_264_hd.taobao.aliyun.mp4" type="video/mp4">
 </video>
 
