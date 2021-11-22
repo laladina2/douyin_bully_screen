@@ -3,10 +3,15 @@
 ### 功能列表
 
 > 抖音内部员工账号监控管理
+
 > 抖音同城爆店活动
+
 > 多门店连锁管理
+
 > 自定义微信公众号，与抖音互通
+
 > 专业短视频AI自动混剪软件（有源码）
+
 > 视频号霸屏（研发中）
 
 ### 系统介绍
@@ -15,7 +20,4 @@
 
 ### 系统演示视频
 
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://assets.meeluo.com/5fdcd919f80be8b3.mp4_332720748321_mp4_264_hd.taobao.aliyun.mp4" type="video/mp4">
-</video>
-
+打开链接：<a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24061733434.4.704d5d99lR6QhO&id=659143746170">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24061733434.4.704d5d99lR6QhO&id=659143746170</a>
