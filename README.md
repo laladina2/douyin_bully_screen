@@ -20,4 +20,8 @@
 
 ### 系统演示视频
 
-打开链接：<a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24061733434.4.704d5d99lR6QhO&id=659143746170">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24061733434.4.704d5d99lR6QhO&id=659143746170</a>
+打开链接：<a target="_blank" href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24061733434.4.704d5d99lR6QhO&id=659143746170">https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24061733434.4.704d5d99lR6QhO&id=659143746170</a>
+
+### 系统截图
+
+<p style="text-align: center;"><img align="absmiddle" src="https://img.alicdn.com/imgextra/i4/2212835291027/O1CN016bzoNY1JSPTYe8Nq9_!!2212835291027.png" style="max-width: 750.0px;" data-spm-anchor-id="2013.1.0.i0.7c5c70caHfmSzr"><img align="absmiddle" src="https://img.alicdn.com/imgextra/i1/2212835291027/O1CN01wP2Khd1JSPTXw4H7R_!!2212835291027.png" style="max-width: 750.0px;"><img align="absmiddle" src="https://img.alicdn.com/imgextra/i1/2212835291027/O1CN01tNEZdv1JSPTTYOqdD_!!2212835291027.png" style="max-width: 750.0px;"><img align="absmiddle" src="https://img.alicdn.com/imgextra/i3/2212835291027/O1CN01m8J3FH1JSPTONMQIv_!!2212835291027.png" style="max-width: 750.0px;"></p>
